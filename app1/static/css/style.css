@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+body{
+    background-image: url("https://images.pexels.com/photos/912110/pexels-photo-912110.jpeg");
+    background-size: 100%;
+}
+
+#wrapper{
+    width: 1200px;
+    border: solid rgba(253, 253, 253, 0.918) 3px;
+    border-radius: 3px;
+    background-color: rgba(253, 253, 253, 0.918);
+    margin: 20px;
+    padding: 16px;
+   }
+
+   #above_wrapper {
+    width: 1200px;
+    margin: 20px;  
+       
+}
+#live_weather{
+    font-family: "Copperplate","Monaco";
+    font-size:100px;
+    color: white;
+    
+}
