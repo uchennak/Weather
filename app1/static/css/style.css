@@ -3,6 +3,7 @@
     padding: 0px;
    }
 body{
+    background-color: teal;
     background-image: url("https://images.pexels.com/photos/912110/pexels-photo-912110.jpeg");
     background-size: 100%;
 }
@@ -20,6 +21,18 @@ body{
     width: 1200px;
     margin: 20px;  
        
+}
+
+#above_wrapper *{
+    display: inline-block;
+    margin: 5px;
+}
+#sun{
+    background-color: yellow;
+    border: solid yellow 20px ;
+    border-radius: 20px;
+    width:50px;
+    height:50px;
 }
 #live_weather{
     font-family: "Copperplate","Monaco";
